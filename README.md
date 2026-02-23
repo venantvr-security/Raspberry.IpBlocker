@@ -11,6 +11,4 @@ Generateur de regles iptables pour bloquer des plages d'IP geolocalisees, avec a
 
 ## Stack
 
-- Python
-- iptables
-- Fichiers de zones IP
+[![Stack](https://skillicons.dev/icons?i=linux,py&theme=dark)](https://skillicons.dev)
